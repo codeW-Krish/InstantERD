@@ -1,0 +1,5 @@
+{
+  "name": "InstantERD",
+  "description": "Natural language to ER Diagrams in Chen notation. Blueprint your database with words.",
+  "requestFramePermissions": []
+}

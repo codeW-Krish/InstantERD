@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.agents/
+InstantERD Dev Phases.md
+fullstack-developer/
+skills-lock.json
